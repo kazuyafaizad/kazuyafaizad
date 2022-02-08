@@ -1,4 +1,3 @@
-# Official Page
-
-
-[kazuyafaizad.com](https://kazuyafaizad.com/)
+Hello~
+Currently working as web developer.
+My Repo is random idea
