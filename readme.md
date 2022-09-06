@@ -1,2 +1,2 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuyafaizad)](https://github.com/anuraghazra/github-readme-stats)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazuyafaizad)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuyafaizad&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazuyafaizad&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
